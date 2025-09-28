@@ -2,6 +2,9 @@
 
 ## About
 
+**Difference: Manual continue function - can be called externally to continue deletion**
+
+
 **InstaPurge** is an extremely fast script designed to delete all Instagram messages in a conversation, directly from your browser's Developer Tools console. It ensures that both messages and reactions are wiped, leaving no trace of your existence in the conversation. It is highly recommended to load the entire chat before running the deletion process. This is the best way to delete your Instagram messages as all other methods are outdated and no longer work, and Instagram itself does not expose an API to automatically delete messages on the server side. Hence, we must use this script on the client side console to accomplish this.
 
 ## Features
